@@ -16,5 +16,4 @@ fn main(){
     let b = Point{x : 40.0, y : 5.0};
 
     slope(a, b);
-    
 }
